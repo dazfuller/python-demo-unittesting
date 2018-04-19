@@ -100,6 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 
+# OSX
+._*
+
 # VSCode
 .vscode/*
 !.vscode/settings.json
