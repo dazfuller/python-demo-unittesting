@@ -1,0 +1,9 @@
+[run]
+# Capture branch coverage information
+branch = True
+
+omit = 
+    # omit any test scripts
+    */tests/*
+    */site-packages/*
+
